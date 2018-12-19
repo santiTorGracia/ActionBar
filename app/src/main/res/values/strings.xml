@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActionBarExercise</string>
+    <string name="action_refresh">favorite</string>
+    <string name="action_settings">settings</string>
+</resources>
